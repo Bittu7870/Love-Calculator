@@ -61,7 +61,7 @@ const Love = () => {
             <button
               type="submit"
               className="w-full px-6 py-3 bg-red-600 text-white rounded-md hover:bg-red-700 focus:outline-none focus:bg-red-700"
-              disabled={lovePercentage}
+              
             >
               Calculate Love
             </button>
